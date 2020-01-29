@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Dropbox\\lc101\\TNPCF\\TNPCF\\TNPCF.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Dropbox\\The Northern Pack\\TNPCF.csproj",
       "projectName": "TNPCF",
-      "projectPath": "C:\\Users\\User\\Dropbox\\lc101\\TNPCF\\TNPCF\\TNPCF.csproj",
+      "projectPath": "C:\\Users\\User\\Dropbox\\The Northern Pack\\TNPCF.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Dropbox\\lc101\\TNPCF\\TNPCF\\obj\\",
+      "outputPath": "C:\\Users\\User\\Dropbox\\The Northern Pack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
