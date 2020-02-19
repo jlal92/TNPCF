@@ -1,0 +1,16 @@
+﻿@using TNPCF.Models;
+@model IEnumerable<Membership>
+
+<div style="font-family:Arial">
+    @{
+        ViewBag.Title = "MembershipTypes List";
+    }
+
+    <h2>Membership Types List</h2>
+    <ul>
+        @foreach (Membership membership in @Model)
+        {
+            <li>@Html.ActionLink(membership.Name, "Index", "Member", new { membershipid = membership.ID }, null)</li>
+        }
+    </ul>
+</div>
